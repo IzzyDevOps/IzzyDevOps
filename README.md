@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaone!
 
 ## 🌟 Welcome to My GitHub Profile! 🌟
-A final-year Computer Systems Engineering student with a passion for development and a strong foundation in programming and networking. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
+A Computer Systems Engineering graduate with a passion for development and a strong foundation in programming and networking. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
 
 ## 🚀 About Me
 
