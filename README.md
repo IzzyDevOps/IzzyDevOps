@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaone!
 
 ## 🌟 Welcome to My GitHub Profile! 🌟
-A BSc (Hons) Computer Systems Engineering graduate with a passion for development and a strong foundation in programming and networking. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
+A BSc (Hons) Computer Systems Engineering graduate with a passion for development and a strong foundation in programming, networking, and cybersecurity.. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
 
 ## 🚀 About Me
 
@@ -41,5 +41,5 @@ As a future software engineer, I’m excited about creating innovative solutions
 I’d love to connect with fellow developers, enthusiasts, and professionals. Feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/kaone-keboetseng/)
-- [Portfolio](https://izzydevops.github.io/kay-tech.github.io/)
+<!-- [Portfolio](https://izzydevops.github.io/kay-tech.github.io/)-->
 
