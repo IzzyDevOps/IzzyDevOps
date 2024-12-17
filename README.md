@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaone!
 
 ## 🌟 Welcome to My GitHub Profile! 🌟
-A BSc (Hons) Computer Systems Engineering graduate with a passion for development and a strong foundation in programming, networking, and cybersecurity.. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
+A BSc (Hons) Computer Systems Engineering graduate with a passion for development and a strong foundation in programming, networking, and cybersecurity. I thrive on the satisfaction of overcoming challenges and am driven by the potential for software to make a positive impact on individuals and the world.
 
 ## 🚀 About Me
 
