@@ -32,10 +32,10 @@ As a future software engineer, I’m excited about creating innovative solutions
 * 🚀 Building Projects: Developing and refining my skills through hands-on projects.
 * 📖 Learning: Deepening my understanding of advanced topics in software engineering, networking, and cloud computing.
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats-->
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=IzzyDevOps&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=IzzyDevOps&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
 ## Let's Connect
 I’d love to connect with fellow developers, enthusiasts, and professionals. Feel free to reach out!
